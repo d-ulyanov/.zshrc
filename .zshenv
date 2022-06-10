@@ -1,7 +1,5 @@
 #  ---------------------------------------------------------------------------
 #
-#  Description:  This file holds all my BASH configurations and aliases
-#
 #  Sections:
 #  1.  Env Configs
 #  2.  Useful shortcuts

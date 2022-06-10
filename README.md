@@ -1,4 +1,4 @@
-# My .bash_profile
+# My .zshrc configuration
 
 This repo contains my basic .bash_profile settings (MacOS) and 
 typical aliases for Git and kubectl 
