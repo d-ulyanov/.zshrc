@@ -1,6 +1,6 @@
 # My .zshrc configuration
 
-This repo contains my basic .bash_profile settings (MacOS) and 
+This repo contains my basic .zshrc settings (MacOS Monterey) and 
 typical aliases for Git and kubectl 
 
 ## Usage
